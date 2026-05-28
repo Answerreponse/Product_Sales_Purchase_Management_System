@@ -1,3 +1,4 @@
+//npm install to install packages on frontend becouse it not pushed
 import React, { useState } from "react";
 import {BrowserRouter as Router, Routes, Route, useNavigate, Link} from 'react-router-dom';
 import Home from './Home';
